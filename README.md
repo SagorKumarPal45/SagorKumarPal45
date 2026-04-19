@@ -1,5 +1,5 @@
 # 💫 About Me:
-HHi, I'm Sagor 👋  <br><br>💻 Developer | IoT Enthusiast | Problem Solver  <br><br>- 🔧 Working with ESP devices, MQTT, and real-time systems  <br>- 📱 Learning Android app development  <br>- 🌐 Interested in networking and backend systems  <br><br>I enjoy building practical projects and experimenting with new technologies.
+Hi, I'm Sagor 👋  <br><br>💻 Developer | IoT Enthusiast | Problem Solver  <br><br>- 🔧 Working with ESP devices, MQTT, and real-time systems  <br>- 📱 Learning Android app development  <br>- 🌐 Interested in networking and backend systems  <br><br>I enjoy building practical projects and experimenting with new technologies.
 
 
 ## 🌐 Socials:
